@@ -1,5 +1,5 @@
 import streamlit as st
-import yfinance as yf
+import finance as f
 import pandas as pd
 import numpy as np
 from ta.momentum import RSIIndicator
